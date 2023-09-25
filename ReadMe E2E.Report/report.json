@@ -1,0 +1,341 @@
+{
+  "config": "{\"version\":\"5.47\",\"themeCollection\":{\"baseTheme\":{\"name\":\"CY23SU08\",\"version\":\"5.47\",\"type\":2}},\"activeSectionIndex\":0,\"defaultDrillFilterOtherVisuals\":true,\"slowDataSourceSettings\":{\"isCrossHighlightingDisabled\":false,\"isSlicerSelectionsButtonEnabled\":false,\"isFilterSelectionsButtonEnabled\":false,\"isFieldWellButtonEnabled\":false,\"isApplyAllButtonEnabled\":false},\"linguisticSchemaSyncVersion\":0,\"settings\":{\"useNewFilterPaneExperience\":true,\"allowChangeFilterTypes\":true,\"useStylableVisualContainerHeader\":true,\"queryLimitOption\":6,\"exportDataMode\":1,\"useDefaultAggregateDisplayName\":true},\"objects\":{\"section\":[{\"properties\":{\"verticalAlignment\":{\"expr\":{\"Literal\":{\"Value\":\"'Top'\"}}}}}],\"outspacePane\":[{\"properties\":{\"expanded\":{\"expr\":{\"Literal\":{\"Value\":\"true\"}}}}}]}}",
+  "layoutOptimization": 0,
+  "resourcePackages": [
+    {
+      "resourcePackage": {
+        "disabled": false,
+        "items": [
+          {
+            "name": "18670811886347092.png",
+            "path": "18670811886347092.png",
+            "type": 100
+          },
+          {
+            "name": "Connected_Customer_Programme6755418031371343.png",
+            "path": "Connected_Customer_Programme6755418031371343.png",
+            "type": 100
+          },
+          {
+            "name": "E2E_black4125975385655716.png",
+            "path": "E2E_black4125975385655716.png",
+            "type": 100
+          },
+          {
+            "name": "Shell_icon1290961131281474.png",
+            "path": "Shell_icon1290961131281474.png",
+            "type": 100
+          },
+          {
+            "name": "calendar_icon09857021209430417.png",
+            "path": "calendar_icon09857021209430417.png",
+            "type": 100
+          },
+          {
+            "name": "database_icon7840234721622861.png",
+            "path": "database_icon7840234721622861.png",
+            "type": 100
+          },
+          {
+            "name": "globe_icon5889826430601321.png",
+            "path": "globe_icon5889826430601321.png",
+            "type": 100
+          },
+          {
+            "name": "settings_icon4784753136128277.png",
+            "path": "settings_icon4784753136128277.png",
+            "type": 100
+          }
+        ],
+        "name": "RegisteredResources",
+        "type": 1
+      }
+    },
+    {
+      "resourcePackage": {
+        "disabled": false,
+        "items": [
+          {
+            "name": "CY23SU08",
+            "path": "BaseThemes/CY23SU08.json",
+            "type": 202
+          }
+        ],
+        "name": "SharedResources",
+        "type": 2
+      }
+    }
+  ],
+  "sections": [
+    {
+      "config": "{\"objects\":{\"background\":[{\"properties\":{\"color\":{\"solid\":{\"color\":{\"expr\":{\"Literal\":{\"Value\":\"'#F2F2F2'\"}}}}},\"transparency\":{\"expr\":{\"Literal\":{\"Value\":\"0D\"}}}}}]}}",
+      "displayName": "ReadMe",
+      "displayOption": 3,
+      "filters": "[]",
+      "height": 1260.00,
+      "name": "ReportSection",
+      "visualContainers": [
+        {
+          "config": "{\"name\":\"04cccb7f2056b75a580e\",\"layouts\":[{\"id\":0,\"position\":{\"x\":437.2093023255814,\"y\":309.30232558139534,\"z\":22000,\"width\":737.2093023255815,\"height\":90.69767441860465,\"tabOrder\":16000}}],\"singleVisual\":{\"visualType\":\"textbox\",\"drillFilterOtherVisuals\":true,\"objects\":{\"general\":[{\"properties\":{\"paragraphs\":[{\"textRuns\":[{\"value\":\"To request access or for access-related queries, please email the E2E Monitoring mailbox: \",\"textStyle\":{\"fontFamily\":\"DIN\",\"fontSize\":\"18pt\"}},{\"value\":\"LON-SC-E2E-Monitoring@shell.com\",\"textStyle\":{\"fontFamily\":\"DIN\",\"fontSize\":\"18pt\",\"color\":\"#3363a0\"}},{\"value\":\". Alternatively, you can fill out the ASD Webform to request dashboard access\",\"textStyle\":{\"fontFamily\":\"DIN\",\"fontSize\":\"18pt\",\"color\":\"#000000\"}}]}]}}]},\"vcObjects\":{\"background\":[{\"properties\":{\"transparency\":{\"expr\":{\"Literal\":{\"Value\":\"100D\"}}}}}]}},\"parentGroupName\":\"418ef7500b75ccdba801\"}",
+          "filters": "[]",
+          "height": 90.70,
+          "width": 737.21,
+          "x": 437.21,
+          "y": 309.30,
+          "z": 22000.00
+        },
+        {
+          "config": "{\"name\":\"098b58bbea70ee5ca193\",\"layouts\":[{\"id\":0,\"position\":{\"x\":437.2093023255814,\"y\":230.2325581395349,\"z\":21000,\"width\":737.2093023255815,\"height\":60.46511627906977,\"tabOrder\":15000}}],\"singleVisual\":{\"visualType\":\"textbox\",\"drillFilterOtherVisuals\":true,\"objects\":{\"general\":[{\"properties\":{\"paragraphs\":[{\"textRuns\":[{\"value\":\"Data available until Last 18 Months\",\"textStyle\":{\"fontFamily\":\"DIN\",\"fontSize\":\"20pt\"}}]}]}}]},\"vcObjects\":{\"background\":[{\"properties\":{\"transparency\":{\"expr\":{\"Literal\":{\"Value\":\"100D\"}}}}}]}},\"parentGroupName\":\"418ef7500b75ccdba801\"}",
+          "filters": "[]",
+          "height": 60.47,
+          "width": 737.21,
+          "x": 437.21,
+          "y": 230.23,
+          "z": 21000.00
+        },
+        {
+          "config": "{\"name\":\"164123a5022d080668b0\",\"layouts\":[{\"id\":0,\"position\":{\"x\":0,\"y\":0,\"z\":6000,\"width\":418.60465116279073,\"height\":100,\"tabOrder\":0}}],\"singleVisual\":{\"visualType\":\"shape\",\"drillFilterOtherVisuals\":true,\"objects\":{\"shape\":[{\"properties\":{\"tileShape\":{\"expr\":{\"Literal\":{\"Value\":\"'rectangle'\"}}}}}],\"rotation\":[{\"properties\":{\"shapeAngle\":{\"expr\":{\"Literal\":{\"Value\":\"0L\"}}}}}],\"fill\":[{\"properties\":{\"fillColor\":{\"solid\":{\"color\":{\"expr\":{\"Literal\":{\"Value\":\"'#CEFAE4'\"}}}}}},\"selector\":{\"id\":\"default\"}}],\"outline\":[{\"properties\":{\"show\":{\"expr\":{\"Literal\":{\"Value\":\"false\"}}}}}]}},\"parentGroupName\":\"418ef7500b75ccdba801\"}",
+          "filters": "[]",
+          "height": 100.00,
+          "width": 418.60,
+          "x": 0.00,
+          "y": 0.00,
+          "z": 6000.00
+        },
+        {
+          "config": "{\"name\":\"2238ce190c433468621d\",\"layouts\":[{\"id\":0,\"position\":{\"x\":109.30232558139534,\"y\":23.25581395348837,\"z\":15000,\"width\":258.13953488372096,\"height\":58.139534883720934,\"tabOrder\":9000}}],\"singleVisual\":{\"visualType\":\"textbox\",\"drillFilterOtherVisuals\":true,\"objects\":{\"general\":[{\"properties\":{\"paragraphs\":[{\"textRuns\":[{\"value\":\"Markets\",\"textStyle\":{\"fontWeight\":\"bold\",\"fontFamily\":\"DIN\",\"fontSize\":\"28pt\"}}],\"horizontalTextAlignment\":\"center\"}]}}]},\"vcObjects\":{\"background\":[{\"properties\":{\"transparency\":{\"expr\":{\"Literal\":{\"Value\":\"100D\"}}}}}]}},\"parentGroupName\":\"418ef7500b75ccdba801\"}",
+          "filters": "[]",
+          "height": 58.14,
+          "width": 258.14,
+          "x": 109.30,
+          "y": 23.26,
+          "z": 15000.00
+        },
+        {
+          "config": "{\"name\":\"3880e6fe3e9550006cc0\",\"layouts\":[{\"id\":0,\"position\":{\"x\":1024.7422680412371,\"y\":0,\"z\":6000,\"width\":254.63917525773198,\"height\":75.25773195876289,\"tabOrder\":6000}}],\"singleVisual\":{\"visualType\":\"shape\",\"drillFilterOtherVisuals\":true,\"objects\":{\"shape\":[{\"properties\":{\"tileShape\":{\"expr\":{\"Literal\":{\"Value\":\"'rectangle'\"}}},\"roundEdge\":{\"expr\":{\"Literal\":{\"Value\":\"0L\"}}}}}],\"rotation\":[{\"properties\":{\"shapeAngle\":{\"expr\":{\"Literal\":{\"Value\":\"0L\"}}}}}],\"fill\":[{\"properties\":{\"fillColor\":{\"solid\":{\"color\":{\"expr\":{\"Literal\":{\"Value\":\"'#FFFFFF'\"}}}}},\"transparency\":{\"expr\":{\"Literal\":{\"Value\":\"0D\"}}}},\"selector\":{\"id\":\"default\"}}],\"outline\":[{\"properties\":{\"show\":{\"expr\":{\"Literal\":{\"Value\":\"false\"}}}}},{\"properties\":{\"lineColor\":{\"solid\":{\"color\":{\"expr\":{\"Literal\":{\"Value\":\"'#780508'\"}}}}},\"weight\":{\"expr\":{\"Literal\":{\"Value\":\"0.5D\"}}}},\"selector\":{\"id\":\"default\"}}]}}}",
+          "filters": "[]",
+          "height": 75.26,
+          "width": 254.64,
+          "x": 1024.74,
+          "y": 0.00,
+          "z": 6000.00
+        },
+        {
+          "config": "{\"name\":\"3f0b77af484b24c07b16\",\"layouts\":[{\"id\":0,\"position\":{\"x\":2.325581395348838,\"y\":111.62790697674416,\"z\":11000,\"width\":123.25581395348837,\"height\":81.3953488372093,\"tabOrder\":5000}}],\"singleVisual\":{\"visualType\":\"image\",\"drillFilterOtherVisuals\":true,\"objects\":{\"general\":[{\"properties\":{\"imageUrl\":{\"expr\":{\"ResourcePackageItem\":{\"PackageName\":\"RegisteredResources\",\"PackageType\":1,\"ItemName\":\"database_icon7840234721622861.png\"}}}}}]}},\"parentGroupName\":\"418ef7500b75ccdba801\"}",
+          "filters": "[]",
+          "height": 81.40,
+          "width": 123.26,
+          "x": 2.33,
+          "y": 111.63,
+          "z": 11000.00
+        },
+        {
+          "config": "{\"name\":\"3fc3d0f33d480eb6203e\",\"layouts\":[{\"id\":0,\"position\":{\"x\":437.2093023255814,\"y\":137.2093023255814,\"z\":20000,\"width\":737.2093023255815,\"height\":62.7906976744186,\"tabOrder\":14000}}],\"singleVisual\":{\"visualType\":\"textbox\",\"drillFilterOtherVisuals\":true,\"objects\":{\"general\":[{\"properties\":{\"paragraphs\":[{\"textRuns\":[{\"value\":\"SIP, LOD, Hybris, MPP, Octopus, Playable\",\"textStyle\":{\"fontFamily\":\"DIN\",\"fontSize\":\"20pt\"}}]}]}}]},\"vcObjects\":{\"background\":[{\"properties\":{\"transparency\":{\"expr\":{\"Literal\":{\"Value\":\"100D\"}}}}}]}},\"parentGroupName\":\"418ef7500b75ccdba801\"}",
+          "filters": "[]",
+          "height": 62.79,
+          "width": 737.21,
+          "x": 437.21,
+          "y": 137.21,
+          "z": 20000.00
+        },
+        {
+          "config": "{\"name\":\"418ef7500b75ccdba801\",\"layouts\":[{\"id\":0,\"position\":{\"x\":29.72972972972973,\"y\":300,\"z\":3000,\"width\":1194.5945945945946,\"height\":400,\"tabOrder\":9000}}],\"singleVisualGroup\":{\"displayName\":\"Group 2\",\"groupMode\":0,\"objects\":{\"background\":[{\"properties\":{\"show\":{\"expr\":{\"Literal\":{\"Value\":\"false\"}}},\"color\":{\"solid\":{\"color\":{\"expr\":{\"ThemeDataColor\":{\"ColorId\":1,\"Percent\":0}}}}}}}]}}}",
+          "height": 400.00,
+          "width": 1194.59,
+          "x": 29.73,
+          "y": 300.00,
+          "z": 3000.00
+        },
+        {
+          "config": "{\"name\":\"41f233ed3992acec384c\",\"layouts\":[{\"id\":0,\"position\":{\"x\":0,\"y\":100,\"z\":7000,\"width\":418.60465116279073,\"height\":100,\"tabOrder\":1000}}],\"singleVisual\":{\"visualType\":\"shape\",\"drillFilterOtherVisuals\":true,\"objects\":{\"shape\":[{\"properties\":{\"tileShape\":{\"expr\":{\"Literal\":{\"Value\":\"'rectangle'\"}}}}}],\"rotation\":[{\"properties\":{\"shapeAngle\":{\"expr\":{\"Literal\":{\"Value\":\"0L\"}}}}}],\"fill\":[{\"properties\":{\"fillColor\":{\"solid\":{\"color\":{\"expr\":{\"Literal\":{\"Value\":\"'#B9FAD9'\"}}}}}},\"selector\":{\"id\":\"default\"}}],\"outline\":[{\"properties\":{\"show\":{\"expr\":{\"Literal\":{\"Value\":\"false\"}}}}}]}},\"parentGroupName\":\"418ef7500b75ccdba801\"}",
+          "filters": "[]",
+          "height": 100.00,
+          "width": 418.60,
+          "x": 0.00,
+          "y": 100.00,
+          "z": 7000.00
+        },
+        {
+          "config": "{\"name\":\"4361e2b0a1a819402085\",\"layouts\":[{\"id\":0,\"position\":{\"x\":32.25806451612903,\"y\":0,\"z\":5000,\"width\":80.64516129032258,\"height\":75.80645161290323,\"tabOrder\":4000}}],\"singleVisual\":{\"visualType\":\"image\",\"drillFilterOtherVisuals\":true,\"objects\":{\"general\":[{\"properties\":{\"imageUrl\":{\"expr\":{\"ResourcePackageItem\":{\"PackageName\":\"RegisteredResources\",\"PackageType\":1,\"ItemName\":\"Shell_icon1290961131281474.png\"}}}}}]}}}",
+          "filters": "[]",
+          "height": 75.81,
+          "width": 80.65,
+          "x": 32.26,
+          "y": 0.00,
+          "z": 5000.00
+        },
+        {
+          "config": "{\"name\":\"45166a80910bcb403a0e\",\"layouts\":[{\"id\":0,\"position\":{\"x\":4.651162790697672,\"y\":209.30232558139534,\"z\":12000,\"width\":123.25581395348837,\"height\":81.3953488372093,\"tabOrder\":6000}}],\"singleVisual\":{\"visualType\":\"image\",\"drillFilterOtherVisuals\":true,\"objects\":{\"general\":[{\"properties\":{\"imageUrl\":{\"expr\":{\"ResourcePackageItem\":{\"PackageName\":\"RegisteredResources\",\"PackageType\":1,\"ItemName\":\"calendar_icon09857021209430417.png\"}}}}}]}},\"parentGroupName\":\"418ef7500b75ccdba801\"}",
+          "filters": "[]",
+          "height": 81.40,
+          "width": 123.26,
+          "x": 4.65,
+          "y": 209.30,
+          "z": 12000.00
+        },
+        {
+          "config": "{\"name\":\"4e19c77f8896ec9980aa\",\"layouts\":[{\"id\":0,\"position\":{\"x\":0,\"y\":200,\"z\":8000,\"width\":418.60465116279073,\"height\":100,\"tabOrder\":2000}}],\"singleVisual\":{\"visualType\":\"shape\",\"drillFilterOtherVisuals\":true,\"objects\":{\"shape\":[{\"properties\":{\"tileShape\":{\"expr\":{\"Literal\":{\"Value\":\"'rectangle'\"}}}}}],\"rotation\":[{\"properties\":{\"shapeAngle\":{\"expr\":{\"Literal\":{\"Value\":\"0L\"}}}}}],\"fill\":[{\"properties\":{\"fillColor\":{\"solid\":{\"color\":{\"expr\":{\"Literal\":{\"Value\":\"'#A2FDCE'\"}}}}}},\"selector\":{\"id\":\"default\"}}],\"outline\":[{\"properties\":{\"show\":{\"expr\":{\"Literal\":{\"Value\":\"false\"}}}}}]}},\"parentGroupName\":\"418ef7500b75ccdba801\"}",
+          "filters": "[]",
+          "height": 100.00,
+          "width": 418.60,
+          "x": 0.00,
+          "y": 200.00,
+          "z": 8000.00
+        },
+        {
+          "config": "{\"name\":\"5550ee4080000e0d2027\",\"layouts\":[{\"id\":0,\"position\":{\"x\":434.8837209302326,\"y\":23.25581395348837,\"z\":19000,\"width\":737.2093023255815,\"height\":76.74418604651163,\"tabOrder\":13000}}],\"singleVisual\":{\"visualType\":\"textbox\",\"drillFilterOtherVisuals\":true,\"objects\":{\"general\":[{\"properties\":{\"paragraphs\":[{\"textRuns\":[{\"value\":\"All markets that are applicable for the selected data source are listed\",\"textStyle\":{\"fontFamily\":\"DIN\",\"fontSize\":\"20pt\"}}]}]}}]},\"vcObjects\":{\"background\":[{\"properties\":{\"transparency\":{\"expr\":{\"Literal\":{\"Value\":\"100D\"}}}}}]}},\"parentGroupName\":\"418ef7500b75ccdba801\"}",
+          "filters": "[]",
+          "height": 76.74,
+          "width": 737.21,
+          "x": 434.88,
+          "y": 23.26,
+          "z": 19000.00
+        },
+        {
+          "config": "{\"name\":\"5eebd9d6b2836027c4e2\",\"layouts\":[{\"id\":0,\"position\":{\"x\":1025.3164556962024,\"y\":0,\"z\":7000,\"width\":254.43037974683543,\"height\":234.1772151898734,\"tabOrder\":7000}}],\"singleVisual\":{\"visualType\":\"image\",\"drillFilterOtherVisuals\":true,\"objects\":{\"general\":[{\"properties\":{\"imageUrl\":{\"expr\":{\"ResourcePackageItem\":{\"PackageName\":\"RegisteredResources\",\"PackageType\":1,\"ItemName\":\"18670811886347092.png\"}}}}}]}}}",
+          "filters": "[]",
+          "height": 234.18,
+          "width": 254.43,
+          "x": 1025.32,
+          "y": 0.00,
+          "z": 7000.00
+        },
+        {
+          "config": "{\"name\":\"75055ca028166e443c75\",\"layouts\":[{\"id\":0,\"position\":{\"x\":109.30232558139534,\"y\":123.25581395348837,\"z\":16000,\"width\":258.13953488372096,\"height\":58.139534883720934,\"tabOrder\":10000}}],\"singleVisual\":{\"visualType\":\"textbox\",\"drillFilterOtherVisuals\":true,\"objects\":{\"general\":[{\"properties\":{\"paragraphs\":[{\"textRuns\":[{\"value\":\"Data Sources\",\"textStyle\":{\"fontWeight\":\"bold\",\"fontFamily\":\"DIN\",\"fontSize\":\"28pt\"}}],\"horizontalTextAlignment\":\"center\"}]}}]},\"vcObjects\":{\"background\":[{\"properties\":{\"transparency\":{\"expr\":{\"Literal\":{\"Value\":\"100D\"}}}}}]}},\"parentGroupName\":\"418ef7500b75ccdba801\"}",
+          "filters": "[]",
+          "height": 58.14,
+          "width": 258.14,
+          "x": 109.30,
+          "y": 123.26,
+          "z": 16000.00
+        },
+        {
+          "config": "{\"name\":\"8621816070a21795079a\",\"layouts\":[{\"id\":0,\"position\":{\"x\":0,\"y\":0,\"z\":2000,\"width\":524.3243243243244,\"height\":548.6486486486486,\"tabOrder\":1000}}],\"singleVisual\":{\"visualType\":\"image\",\"drillFilterOtherVisuals\":true,\"objects\":{\"general\":[{\"properties\":{\"imageUrl\":{\"expr\":{\"ResourcePackageItem\":{\"PackageName\":\"RegisteredResources\",\"PackageType\":1,\"ItemName\":\"E2E_black4125975385655716.png\"}}}}}]}},\"parentGroupName\":\"bd6ea35080891696a47c\"}",
+          "filters": "[]",
+          "height": 548.65,
+          "width": 524.32,
+          "x": 0.00,
+          "y": 0.00,
+          "z": 2000.00
+        },
+        {
+          "config": "{\"name\":\"8e3ff2fd09000d0d796b\",\"layouts\":[{\"id\":0,\"position\":{\"x\":2.325581395348838,\"y\":9.302325581395337,\"z\":10000,\"width\":123.25581395348837,\"height\":81.3953488372093,\"tabOrder\":4000}}],\"singleVisual\":{\"visualType\":\"image\",\"drillFilterOtherVisuals\":true,\"objects\":{\"general\":[{\"properties\":{\"imageUrl\":{\"expr\":{\"ResourcePackageItem\":{\"PackageName\":\"RegisteredResources\",\"PackageType\":1,\"ItemName\":\"globe_icon5889826430601321.png\"}}}}}],\"imageScaling\":[{\"properties\":{\"imageScalingType\":{\"expr\":{\"Literal\":{\"Value\":\"'Normal'\"}}}}}]}},\"parentGroupName\":\"418ef7500b75ccdba801\"}",
+          "filters": "[]",
+          "height": 81.40,
+          "width": 123.26,
+          "x": 2.33,
+          "y": 9.30,
+          "z": 10000.00
+        },
+        {
+          "config": "{\"name\":\"94c1e2303d0bbb22e081\",\"layouts\":[{\"id\":0,\"position\":{\"x\":4.651162790697672,\"y\":309.30232558139534,\"z\":13000,\"width\":123.25581395348837,\"height\":81.3953488372093,\"tabOrder\":7000}}],\"singleVisual\":{\"visualType\":\"image\",\"drillFilterOtherVisuals\":true,\"objects\":{\"general\":[{\"properties\":{\"imageUrl\":{\"expr\":{\"ResourcePackageItem\":{\"PackageName\":\"RegisteredResources\",\"PackageType\":1,\"ItemName\":\"settings_icon4784753136128277.png\"}}}}}]}},\"parentGroupName\":\"418ef7500b75ccdba801\"}",
+          "filters": "[]",
+          "height": 81.40,
+          "width": 123.26,
+          "x": 4.65,
+          "y": 309.30,
+          "z": 13000.00
+        },
+        {
+          "config": "{\"name\":\"9cb56b33e00a15366834\",\"layouts\":[{\"id\":0,\"position\":{\"x\":418.6046511627907,\"y\":0,\"z\":14000,\"width\":774.4186046511628,\"height\":400,\"tabOrder\":8000}}],\"singleVisual\":{\"visualType\":\"shape\",\"drillFilterOtherVisuals\":true,\"objects\":{\"shape\":[{\"properties\":{\"tileShape\":{\"expr\":{\"Literal\":{\"Value\":\"'rectangle'\"}}}}}],\"rotation\":[{\"properties\":{\"shapeAngle\":{\"expr\":{\"Literal\":{\"Value\":\"0L\"}}}}}],\"fill\":[{\"properties\":{\"fillColor\":{\"solid\":{\"color\":{\"expr\":{\"ThemeDataColor\":{\"ColorId\":0,\"Percent\":-0.2}}}}},\"transparency\":{\"expr\":{\"Literal\":{\"Value\":\"59D\"}}}},\"selector\":{\"id\":\"default\"}}],\"outline\":[{\"properties\":{\"show\":{\"expr\":{\"Literal\":{\"Value\":\"false\"}}}}}]}},\"parentGroupName\":\"418ef7500b75ccdba801\"}",
+          "filters": "[]",
+          "height": 400.00,
+          "width": 774.42,
+          "x": 418.60,
+          "y": 0.00,
+          "z": 14000.00
+        },
+        {
+          "config": "{\"name\":\"ad1ed42c0282849a1e84\",\"layouts\":[{\"id\":0,\"position\":{\"x\":32.432432432432435,\"y\":97.2972972972973,\"z\":2000,\"width\":1224.3243243243244,\"height\":1297.2972972972973,\"tabOrder\":3000}}],\"singleVisual\":{\"visualType\":\"textbox\",\"drillFilterOtherVisuals\":true,\"objects\":{\"general\":[{\"properties\":{\"paragraphs\":[{\"textRuns\":[{\"value\":\"INTRODUCTION\",\"textStyle\":{\"fontWeight\":\"bold\",\"fontSize\":\"20pt\",\"color\":\"#a61619\"}}]},{\"textRuns\":[{\"value\":\"This is the monitoring tool used for Loyalty CVP's, Digital Payments CVP's, Shell App Backend and SIP for Digital SOM to provide proactive support for the various digital offerings. New data sources are being onboarded regularly.\",\"textStyle\":{\"fontSize\":\"16pt\",\"color\":\"#000000\"}}]},{\"textRuns\":[{\"value\":\"\"}]},{\"textRuns\":[{\"value\":\"\"}]},{\"textRuns\":[{\"value\":\"\"}]},{\"textRuns\":[{\"value\":\"DATA & DEFINITIONS\",\"textStyle\":{\"fontWeight\":\"bold\",\"fontSize\":\"20pt\",\"color\":\"#a61619\"}}]},{\"textRuns\":[{\"value\":\"\"}]},{\"textRuns\":[{\"value\":\"\"}]},{\"textRuns\":[{\"value\":\"\"}]},{\"textRuns\":[{\"value\":\"\"}]},{\"textRuns\":[{\"value\":\"\"}]},{\"textRuns\":[{\"value\":\"\"}]},{\"textRuns\":[{\"value\":\"\"}]},{\"textRuns\":[{\"value\":\"\"}]},{\"textRuns\":[{\"value\":\"\"}]},{\"textRuns\":[{\"value\":\"\"}]},{\"textRuns\":[{\"value\":\"\"}]},{\"textRuns\":[{\"value\":\"\"}]},{\"textRuns\":[{\"value\":\"\"}]},{\"textRuns\":[{\"value\":\"\"}]},{\"textRuns\":[{\"value\":\"\"}]},{\"textRuns\":[{\"value\":\"\"}]},{\"textRuns\":[{\"value\":\"\"}]},{\"textRuns\":[{\"value\":\"\"}]},{\"textRuns\":[{\"value\":\"\"}]},{\"textRuns\":[{\"value\":\"\"}]},{\"textRuns\":[{\"value\":\"\"}]},{\"textRuns\":[{\"value\":\"\"}]},{\"textRuns\":[{\"value\":\"\"}]},{\"textRuns\":[{\"value\":\"\"}]},{\"textRuns\":[{\"value\":\"\"}]},{\"textRuns\":[{\"value\":\"\"}]},{\"textRuns\":[{\"value\":\"ADDITIONAL INFORMATION\",\"textStyle\":{\"fontWeight\":\"bold\",\"fontSize\":\"20pt\",\"color\":\"#a61619\"}}]},{\"textRuns\":[{\"value\":\"\"}]},{\"textRuns\":[{\"value\":\"Any significant changes made to the dashboard will be listed in the 'Changes & Improvements' tab, where you will find details outlining the changes and an explanation of any newly added functionalities.\",\"textStyle\":{\"fontSize\":\"21.3333px\",\"color\":\"#000000\"}}]},{\"textRuns\":[{\"value\":\"\"}]},{\"textRuns\":[{\"value\":\"\"}]},{\"textRuns\":[{\"value\":\"\"}]},{\"textRuns\":[{\"value\":\"\"}]},{\"textRuns\":[{\"value\":\"SUPPORT\",\"textStyle\":{\"fontWeight\":\"bold\",\"fontSize\":\"20pt\",\"color\":\"#a61619\"}}]},{\"textRuns\":[{\"value\":\"The E2E Monitoring Dashboard User Guide can be found here:\",\"textStyle\":{\"fontSize\":\"16pt\",\"color\":\"#000000\"}},{\"value\":\" \",\"textStyle\":{\"fontSize\":\"21.3333px\",\"color\":\"#000000\"}},{\"value\":\"E2E Monitoring Dashboard User Guide V2.0.pptx\",\"textStyle\":{\"fontSize\":\"16pt\",\"color\":\"#3363a0\"},\"url\":\"https://eu001-sp.shell.com/:p:/r/sites/AAFAA5187/L6/OR-%20Connected%20Customer-%20E2E%20Monitoring/E2E%20Monitoring%20Dashboard%20User%20Guide%20V2.0.pptx?d=w3a144872922c4c21bb3cf27eba3efaa5&csf=1&web=1&e=mKNBP6\"}]},{\"textRuns\":[{\"value\":\"\"}]},{\"textRuns\":[{\"value\":\"For any issues with the dashboard, please reach out to the E2E Monitoring (\",\"textStyle\":{\"fontSize\":\"16pt\",\"color\":\"#000000\"}},{\"value\":\"LON-SC-E2E-Monitoring@shell.com\",\"textStyle\":{\"fontSize\":\"16pt\",\"color\":\"#3363a0\"}},{\"value\":\")\",\"textStyle\":{\"fontSize\":\"16pt\",\"color\":\"#000000\"}}]}]}}]},\"vcObjects\":{\"background\":[{\"properties\":{\"color\":{\"solid\":{\"color\":{\"expr\":{\"Literal\":{\"Value\":\"'#F2F2F2'\"}}}}}}}]}}}",
+          "filters": "[]",
+          "height": 1297.30,
+          "width": 1224.32,
+          "x": 32.43,
+          "y": 97.30,
+          "z": 2000.00
+        },
+        {
+          "config": "{\"name\":\"b83e15d5768cad54d4a5\",\"layouts\":[{\"id\":0,\"position\":{\"x\":109.30232558139534,\"y\":220.93023255813955,\"z\":17000,\"width\":258.13953488372096,\"height\":58.139534883720934,\"tabOrder\":11000}}],\"singleVisual\":{\"visualType\":\"textbox\",\"drillFilterOtherVisuals\":true,\"objects\":{\"general\":[{\"properties\":{\"paragraphs\":[{\"textRuns\":[{\"value\":\"Time Period\",\"textStyle\":{\"fontWeight\":\"bold\",\"fontFamily\":\"DIN\",\"fontSize\":\"28pt\"}}],\"horizontalTextAlignment\":\"center\"}]}}]},\"vcObjects\":{\"background\":[{\"properties\":{\"transparency\":{\"expr\":{\"Literal\":{\"Value\":\"100D\"}}}}}]}},\"parentGroupName\":\"418ef7500b75ccdba801\"}",
+          "filters": "[]",
+          "height": 58.14,
+          "width": 258.14,
+          "x": 109.30,
+          "y": 220.93,
+          "z": 17000.00
+        },
+        {
+          "config": "{\"name\":\"bd6ea35080891696a47c\",\"layouts\":[{\"id\":0,\"position\":{\"x\":3.2258064516129035,\"y\":703.2258064516129,\"z\":9000,\"width\":1277.4193548387098,\"height\":567.741935483871,\"tabOrder\":1000}}],\"singleVisualGroup\":{\"displayName\":\"Group 1\",\"groupMode\":0}}",
+          "height": 567.74,
+          "width": 1277.42,
+          "x": 3.23,
+          "y": 703.23,
+          "z": 9000.00
+        },
+        {
+          "config": "{\"name\":\"c90f2237c4c2c48c30c3\",\"layouts\":[{\"id\":0,\"position\":{\"x\":109.30232558139534,\"y\":323.25581395348837,\"z\":18000,\"width\":258.13953488372096,\"height\":58.139534883720934,\"tabOrder\":12000}}],\"singleVisual\":{\"visualType\":\"textbox\",\"drillFilterOtherVisuals\":true,\"objects\":{\"general\":[{\"properties\":{\"paragraphs\":[{\"textRuns\":[{\"value\":\"Access\",\"textStyle\":{\"fontWeight\":\"bold\",\"fontFamily\":\"DIN\",\"fontSize\":\"28pt\"}}],\"horizontalTextAlignment\":\"center\"}]}}]},\"vcObjects\":{\"background\":[{\"properties\":{\"transparency\":{\"expr\":{\"Literal\":{\"Value\":\"100D\"}}}}}]}},\"parentGroupName\":\"418ef7500b75ccdba801\"}",
+          "filters": "[]",
+          "height": 58.14,
+          "width": 258.14,
+          "x": 109.30,
+          "y": 323.26,
+          "z": 18000.00
+        },
+        {
+          "config": "{\"name\":\"c91ac480951095782505\",\"layouts\":[{\"id\":0,\"position\":{\"x\":0,\"y\":0,\"z\":0,\"width\":1256.4516129032259,\"height\":74,\"tabOrder\":0}}],\"singleVisual\":{\"visualType\":\"basicShape\",\"drillFilterOtherVisuals\":true,\"objects\":{\"general\":[{\"properties\":{\"shapeType\":{\"expr\":{\"Literal\":{\"Value\":\"'rectangle'\"}}}}}],\"line\":[{\"properties\":{\"lineColor\":{\"solid\":{\"color\":{\"expr\":{\"Literal\":{\"Value\":\"'#961113'\"}}}}},\"weight\":{\"expr\":{\"Literal\":{\"Value\":\"1.5D\"}}},\"roundEdge\":{\"expr\":{\"Literal\":{\"Value\":\"10L\"}}}}}],\"fill\":[{\"properties\":{\"fillColor\":{\"solid\":{\"color\":{\"expr\":{\"Literal\":{\"Value\":\"'#961113'\"}}}}},\"transparency\":{\"expr\":{\"Literal\":{\"Value\":\"0D\"}}}}}]},\"vcObjects\":{\"visualLink\":[{\"properties\":{\"show\":{\"expr\":{\"Literal\":{\"Value\":\"false\"}}}}}],\"padding\":[{\"properties\":{\"right\":{\"expr\":{\"Literal\":{\"Value\":\"0D\"}}}}}],\"background\":[{\"properties\":{\"show\":{\"expr\":{\"Literal\":{\"Value\":\"true\"}}},\"color\":{\"solid\":{\"color\":{\"expr\":{\"Literal\":{\"Value\":\"'#961113'\"}}}}}}}]}}}",
+          "filters": "[]",
+          "height": 74.00,
+          "width": 1256.45,
+          "x": 0.00,
+          "y": 0.00,
+          "z": 0.00
+        },
+        {
+          "config": "{\"name\":\"ca5c2a74780a47bc281a\",\"layouts\":[{\"id\":0,\"position\":{\"height\":211.86440677966104,\"width\":720.0699048517298,\"x\":556.2895391370538,\"y\":353.6127964699395,\"z\":1000,\"tabOrder\":0}}],\"singleVisual\":{\"visualType\":\"image\",\"drillFilterOtherVisuals\":true,\"objects\":{\"general\":[{\"properties\":{\"imageUrl\":{\"expr\":{\"ResourcePackageItem\":{\"PackageName\":\"RegisteredResources\",\"PackageType\":1,\"ItemName\":\"Connected_Customer_Programme6755418031371343.png\"}}}}}]}},\"parentGroupName\":\"bd6ea35080891696a47c\"}",
+          "filters": "[]",
+          "height": 211.86,
+          "width": 720.07,
+          "x": 556.29,
+          "y": 353.61,
+          "z": 1000.00
+        },
+        {
+          "config": "{\"name\":\"d16d424e9345540e1450\",\"layouts\":[{\"id\":0,\"position\":{\"x\":321.39534883720927,\"y\":6.976744186046512,\"z\":1000,\"width\":637.2093023255815,\"height\":74.4186046511628,\"tabOrder\":2000}}],\"singleVisual\":{\"visualType\":\"textbox\",\"drillFilterOtherVisuals\":true,\"objects\":{\"general\":[{\"properties\":{\"paragraphs\":[{\"textRuns\":[{\"value\":\"E2E Monitoring Dashboard\",\"textStyle\":{\"fontWeight\":\"bold\",\"fontSize\":\"28pt\",\"color\":\"#ffffff\"}}],\"horizontalTextAlignment\":\"center\"}]}}]},\"vcObjects\":{\"background\":[{\"properties\":{\"show\":{\"expr\":{\"Literal\":{\"Value\":\"false\"}}}}}]}}}",
+          "filters": "[]",
+          "height": 74.42,
+          "width": 637.21,
+          "x": 321.40,
+          "y": 6.98,
+          "z": 1000.00
+        },
+        {
+          "config": "{\"name\":\"d2c0429a00acd27a8053\",\"layouts\":[{\"id\":0,\"position\":{\"x\":0,\"y\":1083.8709677419356,\"z\":8000,\"width\":1280.6451612903227,\"height\":187.09677419354838,\"tabOrder\":8000}}],\"singleVisual\":{\"visualType\":\"shape\",\"drillFilterOtherVisuals\":true,\"objects\":{\"shape\":[{\"properties\":{\"tileShape\":{\"expr\":{\"Literal\":{\"Value\":\"'rectangle'\"}}}}}],\"rotation\":[{\"properties\":{\"shapeAngle\":{\"expr\":{\"Literal\":{\"Value\":\"0L\"}}}}}],\"fill\":[{\"properties\":{\"fillColor\":{\"solid\":{\"color\":{\"expr\":{\"Literal\":{\"Value\":\"'#FFFFFF'\"}}}}}},\"selector\":{\"id\":\"default\"}}],\"outline\":[{\"properties\":{\"show\":{\"expr\":{\"Literal\":{\"Value\":\"false\"}}}}}]}}}",
+          "filters": "[]",
+          "height": 187.10,
+          "width": 1280.65,
+          "x": 0.00,
+          "y": 1083.87,
+          "z": 8000.00
+        },
+        {
+          "config": "{\"name\":\"d59062b2d5173102d0b2\",\"layouts\":[{\"id\":0,\"position\":{\"x\":0,\"y\":299.99999999999994,\"z\":9000,\"width\":418.60465116279073,\"height\":100,\"tabOrder\":3000}}],\"singleVisual\":{\"visualType\":\"shape\",\"drillFilterOtherVisuals\":true,\"objects\":{\"shape\":[{\"properties\":{\"tileShape\":{\"expr\":{\"Literal\":{\"Value\":\"'rectangle'\"}}}}}],\"rotation\":[{\"properties\":{\"shapeAngle\":{\"expr\":{\"Literal\":{\"Value\":\"0L\"}}}}}],\"fill\":[{\"properties\":{\"fillColor\":{\"solid\":{\"color\":{\"expr\":{\"Literal\":{\"Value\":\"'#8CF7C0'\"}}}}}},\"selector\":{\"id\":\"default\"}}],\"outline\":[{\"properties\":{\"show\":{\"expr\":{\"Literal\":{\"Value\":\"false\"}}}}}]}},\"parentGroupName\":\"418ef7500b75ccdba801\"}",
+          "filters": "[]",
+          "height": 100.00,
+          "width": 418.60,
+          "x": 0.00,
+          "y": 300.00,
+          "z": 9000.00
+        },
+        {
+          "config": "{\"name\":\"ff3ab2c5da30a6ed0edc\",\"layouts\":[{\"id\":0,\"position\":{\"x\":0,\"y\":0,\"z\":4000,\"width\":138.70967741935485,\"height\":75.80645161290323,\"tabOrder\":5000}}],\"singleVisual\":{\"visualType\":\"shape\",\"drillFilterOtherVisuals\":true,\"objects\":{\"shape\":[{\"properties\":{\"tileShape\":{\"expr\":{\"Literal\":{\"Value\":\"'rectangle'\"}}},\"roundEdge\":{\"expr\":{\"Literal\":{\"Value\":\"0L\"}}}}}],\"rotation\":[{\"properties\":{\"shapeAngle\":{\"expr\":{\"Literal\":{\"Value\":\"0L\"}}}}}],\"fill\":[{\"properties\":{\"fillColor\":{\"solid\":{\"color\":{\"expr\":{\"Literal\":{\"Value\":\"'#FFFFFF'\"}}}}}},\"selector\":{\"id\":\"default\"}}],\"outline\":[{\"properties\":{\"show\":{\"expr\":{\"Literal\":{\"Value\":\"false\"}}}}},{\"properties\":{\"lineColor\":{\"solid\":{\"color\":{\"expr\":{\"Literal\":{\"Value\":\"'#780508'\"}}}}},\"weight\":{\"expr\":{\"Literal\":{\"Value\":\"0.5D\"}}}},\"selector\":{\"id\":\"default\"}}]}}}",
+          "filters": "[]",
+          "height": 75.81,
+          "width": 138.71,
+          "x": 0.00,
+          "y": 0.00,
+          "z": 4000.00
+        }
+      ],
+      "width": 1280.00
+    }
+  ]
+}
