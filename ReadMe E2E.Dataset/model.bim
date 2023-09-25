@@ -279,6 +279,11 @@
             "name": "Test",
             "expression": "\"This is a test measure\"",
             "lineageTag": "2dd52c14-3c93-4f79-939b-e77fec27baf0"
+          },
+          {
+            "name": "Test 2",
+            "expression": "\"This is also a test\"",
+            "lineageTag": "413122e4-6257-4b0e-9657-b9281a322c1a"
           }
         ],
         "partitions": [
